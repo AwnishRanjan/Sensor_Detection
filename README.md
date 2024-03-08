@@ -12,9 +12,7 @@ This repository contains the implementation of a Sensor Detection system using M
 - [Usage](#usage)
 - [Training](#training)
 - [Model Evaluation](#model-evaluation)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
