@@ -41,7 +41,3 @@ pip install -r requirements.txt
 - **Data Preparation**: Prepare your sensor data in the required format. Refer to the documentation for guidelines on data formatting.
 - **Configuration**: Adjust configuration settings in the config.yaml file to match your specific use case and data characteristics.
 - **Run the System: Execute the main script to start the sensor detection system.
-'''bash
-#!/bin/bash
-
-echo "python main.py"
